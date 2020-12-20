@@ -22,7 +22,12 @@ For this project I just wanted to:
 
 ### Results
 
-You can find few results in here.
+The main results are:
+
+- Prices spiking in Thanksgiving and Christmas period.
+- Lowest prices are in the beginning of January, increasing till get the top in summer and falling again in the beginning of September.
+- The most expensive neighboorhoods are: Southeast Magnolia, Lower Queen Anne and Central Business District.
+- The most classified as "quiet neighborhood" are: Loyal Heights and Ravenna.
 
 ### Licensing
 
