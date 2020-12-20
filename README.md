@@ -26,6 +26,9 @@ For this project I just wanted to:
 
 ### Results
 
+It was posted in medium at the bellow link:
+https://joopauloguimares-1984.medium.com/this-will-make-you-save-money-and-time-in-airbnb-booking-next-year-e99559ae290e
+
 The main results are:
 
 - Prices spiking in Thanksgiving and Christmas period.
