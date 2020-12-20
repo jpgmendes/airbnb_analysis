@@ -26,7 +26,7 @@ For this project I just wanted to:
 
 ### Results
 
-You can see a blog post with the results [here]. (https://joopauloguimares-1984.medium.com/this-will-make-you-save-money-and-time-in-airbnb-booking-next-year-e99559ae290e)
+You can see a blog post with the results [here](https://joopauloguimares-1984.medium.com/this-will-make-you-save-money-and-time-in-airbnb-booking-next-year-e99559ae290e)
 
 The main results are:
 
