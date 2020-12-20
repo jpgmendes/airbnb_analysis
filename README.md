@@ -36,3 +36,7 @@ The main results are:
 ### Licensing
 
 You're free to use and to contribute to the development of this project.
+
+### Sources
+
+- http://insideairbnb.com/get-the-data.html
