@@ -28,13 +28,6 @@ For this project I just wanted to:
 
 You can see a blog post with the results [here](https://joopauloguimares-1984.medium.com/this-will-make-you-save-money-and-time-in-airbnb-booking-next-year-e99559ae290e)
 
-The main results are:
-
-- Prices spiking in Thanksgiving and Christmas period.
-- Lowest prices are in the beginning of January, increasing till get the top in summer and falling again in the beginning of September.
-- The most expensive neighboorhoods are: Southeast Magnolia, Lower Queen Anne and Central Business District.
-- The most classified as "quiet neighborhood" are: Loyal Heights and Ravenna.
-
 ### Licensing
 
 You're free to use and to contribute to the development of this project.
