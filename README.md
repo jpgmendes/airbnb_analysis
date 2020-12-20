@@ -6,6 +6,10 @@ First we're analyzing only ask prices for 2020 in Seattle and the reviews made b
 The second purpose is to extend this project to other cities and even other product analysis.
 
 ## INSTALLATION
+
+project1_v2 is the main file
+datasets.zip are the .csv needed
+
 Dependencies:
 
 - python (>= 3.6)       https://www.python.org/downloads/
