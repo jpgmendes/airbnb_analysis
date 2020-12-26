@@ -7,7 +7,7 @@ The second purpose is to extend this project to other cities and even other prod
 
 ## INSTALLATION
 
-project1_v2 is the main file
+project1_v3 is the main file
 datasets.zip are the .csv needed
 
 Dependencies:
